@@ -9,3 +9,5 @@ Several projects centered around blockchain and web3. The following projects are
      
      Block creation: Building a blockchain block by block through hashing algorithms. 
       
+![image](https://user-images.githubusercontent.com/58677524/174719154-c30c6b49-41b6-4be8-86a2-541c25993f6f.png)
+![image](https://user-images.githubusercontent.com/58677524/174719718-a75e8064-4b57-49dd-bdac-f6b0a0b711ad.png)
