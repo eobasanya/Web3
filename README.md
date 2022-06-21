@@ -6,5 +6,6 @@ Several projects centered around blockchain and web3. The following projects are
 2. Blockchain Python Apps: 
      
      Hashing Algorithm: Hashing data using the sha256 algorithm. 
+     
      Block creation: Building a blockchain block by block through hashing algorithms. 
       
