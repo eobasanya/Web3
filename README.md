@@ -16,4 +16,5 @@ Several projects centered around blockchain and web3. The following projects are
 
 # Pychain 
 ![image](https://user-images.githubusercontent.com/58677524/175830117-7dcd5352-03df-4ab5-9f55-a4e423169e47.png)
-![image](https://user-images.githubusercontent.com/58677524/175830163-21909d33-ea7c-45c6-978a-55d53951787e.png)
+![image](https://user-images.githubusercontent.com/58677524/175830192-c481bedb-62f9-45fb-887f-81cf2b0c491b.png)
+
